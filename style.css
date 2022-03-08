@@ -1,0 +1,29 @@
+@media only screen and (min-width: 768px){
+    .news-input{
+        width:50%;
+    }
+}
+
+.h22{
+    margin-top:10px;
+}
+
+#quali{
+   text-align:center;
+}
+
+#cry{
+    border-radius: 150px;
+}
+
+body::before{
+    display:block;
+    content: '';
+    height: 60px;
+}
+
+#map{
+    width:100%;
+    height:100%;
+    border-radius:10px;
+}
