@@ -16,12 +16,6 @@
     border-radius: 150px;
 }
 
-body::before{
-    display:block;
-    content: '';
-    height: 60px;
-}
-
 #map{
     width:100%;
     height:100%;
