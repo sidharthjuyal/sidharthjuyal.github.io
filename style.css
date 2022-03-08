@@ -27,3 +27,14 @@ body::before{
     height:100%;
     border-radius:10px;
 }
+
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: 0.5rem 1rem;
+    color: #212529;
+    text-decoration: none;
+    background-color: #fff;
+    border: 1px solid rgba(0,0,0,.125);
+    text-align: left;
+}
