@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sidharthjuyal
 - 👀 I’m interested in Growth because of knowledge.
 - 🌱 I’m currently learning Frontend Web Developement.
-- 💞️ I’m looking to work with efficiency in the upcoming future.
-- 📫 How to reach me sid.juyal.34@gmail.com
+- 💞️ I’m looking forward to work with efficiency in the upcoming future.
+- 📫 How to reach me: sid.juyal.34@gmail.com
 
 <!---
 sidharthjuyal/sidharthjuyal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
