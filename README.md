@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sidharthjuyal
-- 👀 I’m interested in Growth because of knowledge.
+- 👀 I’m interested in exponential Growth because of knowledge.
 - 🌱 I’m currently learning Frontend Web Developement.
 - 💞️ I’m looking forward to work with efficiency in the upcoming future.
 - 📫 How to reach me: sid.juyal.34@gmail.com
