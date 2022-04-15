@@ -158,7 +158,7 @@ img {
 /*==================== NAV ====================*/
 .nav {
   max-width: 100%;
-  padding: 0.5rem 1rem;
+  padding: 1rem 0;
   height: var(--header-height);
   display: flex;
   justify-content: space-between;
@@ -174,6 +174,11 @@ img {
   color: var(--first-color);
 }
 
+
+.nav__toggle{
+  display:none;
+}
+
 @media screen and (max-width:767px) {
   .nav__menu {
     position: fixed;
@@ -186,6 +191,10 @@ img {
     border-radius: 1.5rem 1.5rem 0 0;
     transition: .3s;
   }
+  
+.nav__toggle{
+  display:initial;
+}
 }
 
 .nav__list {
