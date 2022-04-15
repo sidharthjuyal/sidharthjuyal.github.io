@@ -914,8 +914,12 @@ img {
     width: 200px;
   }
 
-  .portfolio__content {
-    align-items: center;
+}
+
+@media screen and (max-width:567px)
+{
+  .portfolio__content{
+    text-align: center;
   }
 }
 
@@ -958,7 +962,7 @@ img {
   }
 
   .portfolio__content {
-    align-items: center;
+      align-items: center;
   }
 
   .skills__container {
