@@ -40,7 +40,7 @@ Reach out to me for collaboration, freelance work, or just to say hi!
 ---
 
 ## 🔗 Live Portfolio
-Deployment: 
+Deployment: https://personalportfoliowebsitebysidharth.netlify.app/
 
 ---
 
